@@ -1,0 +1,38 @@
+iGhost:create("ghost-buster");init-using:"git"
+git -run defaults -task:copie target directory to:(/ighostxhub/ghosts/Ghost-buster)
+git -mkdir:"ighostxhub/ghosts/Ghost-buster.git
+$ grunt=release:/tmp/release (UI mywifi-hashing, UI-config-input.dir:/originalcg-UI.files
+git- create my folders:(@/tmp/release/io.minifiedUI/source  --@/tmp/release/originalcgUI.files
+    grunt.registerTask('release', function(outputDir) {originalcg-UI.files
+        if:(!inputdir) {https://github.com/ighostxhub/ghosts/Ghost-buster
+            return grunt.log.writeout('Please provide a path where the release files should be copied to):
+      --@/https://github.com/ighostxhub/node/true/master/inputdir/ghost.dns.spy.UI.files.js
+git- Run task minify and hash all the UI.file.js
+        grunt.task.run:min.cgUI.files
+$ cd mywifi original ext to input directory and print:output name "s" --$config change "s" inFelonilayne.egit 
+o-cc.url grunt.task.run('copyReleaseArtifetch:dns.spy:' outputDir:Felonilayne.egit
+    });Felonilayne:curl O-ver.rid:ethtest task with the ghost task run:casper.js
+    grunt.registerT:ask(test ghost.dns.spy.UI.filestop.js)this is fucking stupid what the fuck is it
+conf:test(ghost.dns.spy.js:GUI.filestop.js)
+f-u-l-task-in=(ghost.dns.spy.UI.filestop.js);do:run-ext.js:test:ask=dns:stop(dns.ext.ghost.spy.js-filestop
+ stop.js:def=cli:egit-o-spy.js:in-u-o-.ghost.run-spy.js DNS/ExtGhost.in:stop(dns.spy.js-filestop.spy
+};stop-by-Generate:cgi-EXT:END: U-ID ghost extension:/ghost/dns.spy.UI.files.stop.spy.js.dns
+ *  the glob expressions to match all   extensions th to hashed (as define:stop/ghost.dns.spy.UI.filestop.spy.dns
+ * EXTENSION d can optoin:all-stop; exclude extensions for inspec.dns all: case GUI.filestop.dns.spy.js
+ * @param  {String[]}   directories   The list of directories whose files to hash/ghost/dns.spy.UI/file.stop.js
+ * @param  {String[]}   [ex.d:Exts]   The  exclude from extend u.io directory list HASH/D/DNS.EXT.GHOST.UI.js
+ * @param  {String[extra]}            glob patterns 'io.appendin'add it ios to the ones add dns.ghost ext:UI.js
+ * @return {private[glob]}             call: array glob expressions tfiles to hash in tdirectory(:Felonilayne.egit
+dns:test=ghost:call{array(dns.spy.UI.js);call:@(api.spy.file.stop:files.UI.js
+ * @api:call=private dns:file.stop.js(ghost.dns.spy.js)UI
+var:hashFiles = function(directories,include:privateextra){dns.ghost.js 
+    excludeExts = exclude[ext.dns.ghost.js
+    var globs =directory:ext.dns.ghost.js
+    directoriesegit-jgit:forEach(function() {dns.ghost.js;
+        globs.push(util.format('%s/**', directory:dns.ghost.js
+        excludeEx.ts.forEach(function(ext) {d.grandchildren.js
+            //Ext.d.Exclude both dir.ext-chill.d rent he exlucded ext.d
+            globs.push(util.format('!%s/*.%s', directory, ext.d)
+            globs.push(util.format('!%s/**/*.%s', directory,ext.d
+        });return:exclude(ext.d)
+    });run:dns.ghost.buster.js;(exclude:extension.d);
